@@ -12,6 +12,7 @@
     <a href="/LICENSE.md">
         <img src="https://img.shields.io/badge/Apache%202.0-green?style=for-the-badge&logo=apache" alt="License">
     <a>
+</div>
 
 [![DiscordBots][dbl]][dblLink] [![Support Server][chat]][server] [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![lastcommit] ![workflowStatus]
 

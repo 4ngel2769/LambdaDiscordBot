@@ -1,7 +1,17 @@
-![lambda](https://media.discordapp.net/attachments/796474694861455430/796802868689502288/lambda.png)
-<div>
-    <img src="https://media.discordapp.net/attachments/821661501038919721/838439137085227028/fc7664589d83a1ca075d3f68c25b27b6.png?size=256" width="200" align="right"/>
-</div>
+<h1 align="center">
+    <a href="https://lambda.angellabs.xyz">
+        <img src="https://media.discordapp.net/attachments/796474694861455430/796802868689502288/lambda.png" alt="Lambda Discord Bot Banner">
+    </a>
+    <p>Lambda</p>
+</h1>
+
+<div align="center">
+    <a>
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <a>
+    <a href="/LICENSE.md">
+        <img src="https://img.shields.io/badge/Apache%202.0-green?style=for-the-badge&logo=apache" alt="License">
+    <a>
 
 [![DiscordBots][dbl]][dblLink] [![Support Server][chat]][server] [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![lastcommit] ![workflowStatus]
 
